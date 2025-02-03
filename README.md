@@ -1,2 +1,2 @@
 # sigma-demo
-this is my project
+sigma means sigma.
